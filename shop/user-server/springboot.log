@@ -1,0 +1,48 @@
+2022-06-04 15:38:36.102  INFO 29672 --- [main] TotalTest                                : Starting TotalTest using Java 17.0.2 on DESKTOP-2N3PEKS with PID 29672 (started by guokaifeng in E:\ideaprojects\cloud-medical\app-medical\user-server)
+2022-06-04 15:38:36.107  INFO 29672 --- [main] TotalTest                                : No active profile set, falling back to default profiles: default
+2022-06-04 15:38:36.960  INFO 29672 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-04 15:38:36.965  INFO 29672 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-06-04 15:38:36.997  INFO 29672 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2022-06-04 15:38:37.175  INFO 29672 --- [main] org.dozer.config.GlobalSettings          : Trying to find Dozer configuration file: dozer.properties
+2022-06-04 15:38:37.183  WARN 29672 --- [main] org.dozer.config.GlobalSettings          : Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2022-06-04 15:38:37.184  INFO 29672 --- [main] org.dozer.DozerInitializer               : Initializing Dozer. Version: 5.5.0, Thread Name: main
+2022-06-04 15:38:37.229  INFO 29672 --- [main] org.dozer.jmx.JMXPlatformImpl            : Dozer JMX MBean [org.dozer.jmx:type=DozerStatisticsController] auto registered with the Platform MBean Server
+2022-06-04 15:38:37.229  INFO 29672 --- [main] org.dozer.jmx.JMXPlatformImpl            : Dozer JMX MBean [org.dozer.jmx:type=DozerAdminController] auto registered with the Platform MBean Server
+2022-06-04 15:38:37.230  INFO 29672 --- [main] org.dozer.DozerBeanMapper                : Initializing a new instance of dozer bean mapper.
+2022-06-04 15:38:37.241  INFO 29672 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=611a7107-6e1f-3318-9201-f32465b03158
+2022-06-04 15:38:37.753  INFO 29672 --- [main] org.dozer.DozerBeanMapper                : Initializing a new instance of dozer bean mapper.
+2022-06-04 15:38:38.721  INFO 29672 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-06-04 15:38:38.939  INFO 29672 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-06-04 15:38:39.624  WARN 29672 --- [main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-06-04 15:38:39.634  INFO 29672 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 18 endpoint(s) beneath base path '/actuator'
+2022-06-04 15:38:39.844  INFO 29672 --- [main] TotalTest                                : Started TotalTest in 4.101 seconds (JVM running for 4.827)
+2022-06-04 15:38:40.082  WARN 29672 --- [Thread-2] c.a.n.common.http.HttpClientBeanHolder   : [HttpClientBeanHolder] Start destroying common HttpClient
+2022-06-04 15:38:40.082  WARN 29672 --- [Thread-8] c.a.nacos.common.notify.NotifyCenter     : [NotifyCenter] Start destroying Publisher
+2022-06-04 15:38:40.082  WARN 29672 --- [Thread-8] c.a.nacos.common.notify.NotifyCenter     : [NotifyCenter] Destruction of the end
+2022-06-04 15:38:40.083  WARN 29672 --- [Thread-2] c.a.n.common.http.HttpClientBeanHolder   : [HttpClientBeanHolder] Destruction of the end
+2022-06-04 15:38:40.083  INFO 29672 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-06-04 15:38:46.928  INFO 29672 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-06-04 15:40:02.479  INFO 23240 --- [main] TotalTest                                : Starting TotalTest using Java 17.0.2 on DESKTOP-2N3PEKS with PID 23240 (started by guokaifeng in E:\ideaprojects\cloud-medical\app-medical\user-server)
+2022-06-04 15:40:02.480  INFO 23240 --- [main] TotalTest                                : No active profile set, falling back to default profiles: default
+2022-06-04 15:40:03.215  INFO 23240 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-04 15:40:03.219  INFO 23240 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-06-04 15:40:03.237  INFO 23240 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2022-06-04 15:40:03.411  INFO 23240 --- [main] org.dozer.config.GlobalSettings          : Trying to find Dozer configuration file: dozer.properties
+2022-06-04 15:40:03.418  WARN 23240 --- [main] org.dozer.config.GlobalSettings          : Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2022-06-04 15:40:03.419  INFO 23240 --- [main] org.dozer.DozerInitializer               : Initializing Dozer. Version: 5.5.0, Thread Name: main
+2022-06-04 15:40:03.456  INFO 23240 --- [main] org.dozer.jmx.JMXPlatformImpl            : Dozer JMX MBean [org.dozer.jmx:type=DozerStatisticsController] auto registered with the Platform MBean Server
+2022-06-04 15:40:03.456  INFO 23240 --- [main] org.dozer.jmx.JMXPlatformImpl            : Dozer JMX MBean [org.dozer.jmx:type=DozerAdminController] auto registered with the Platform MBean Server
+2022-06-04 15:40:03.457  INFO 23240 --- [main] org.dozer.DozerBeanMapper                : Initializing a new instance of dozer bean mapper.
+2022-06-04 15:40:03.468  INFO 23240 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=611a7107-6e1f-3318-9201-f32465b03158
+2022-06-04 15:40:03.938  INFO 23240 --- [main] org.dozer.DozerBeanMapper                : Initializing a new instance of dozer bean mapper.
+2022-06-04 15:40:04.918  INFO 23240 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-06-04 15:40:05.145  INFO 23240 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-06-04 15:40:05.799  WARN 23240 --- [main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-06-04 15:40:05.811  INFO 23240 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 18 endpoint(s) beneath base path '/actuator'
+2022-06-04 15:40:06.010  INFO 23240 --- [main] TotalTest                                : Started TotalTest in 3.85 seconds (JVM running for 4.345)
+2022-06-04 15:40:06.205  WARN 23240 --- [Thread-2] c.a.n.common.http.HttpClientBeanHolder   : [HttpClientBeanHolder] Start destroying common HttpClient
+2022-06-04 15:40:06.205  WARN 23240 --- [Thread-8] c.a.nacos.common.notify.NotifyCenter     : [NotifyCenter] Start destroying Publisher
+2022-06-04 15:40:06.206  WARN 23240 --- [Thread-2] c.a.n.common.http.HttpClientBeanHolder   : [HttpClientBeanHolder] Destruction of the end
+2022-06-04 15:40:06.207  WARN 23240 --- [Thread-8] c.a.nacos.common.notify.NotifyCenter     : [NotifyCenter] Destruction of the end
+2022-06-04 15:40:06.208  INFO 23240 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-06-04 15:40:13.058  INFO 23240 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

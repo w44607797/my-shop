@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="3" failures="0" name="TotalTest" time="0.18" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2021.2.2"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.2+8-86"/>
+    <property name="sun.boot.library.path" value="C:\temp\idea\ideajdk\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\ideaprojects\cloud-medical\app-medical\user-server"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\ideaprojects\cloud-medical\app-medical\user-server"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="17.0.2+8-86"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\GUOKAI~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\temp\idea\IntelliJ IDEA 2021.2.2\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="C:\temp\maven3.8.4\apache-maven-3.8.4\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\temp\idea\ideajdk\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\python\py3.9\Scripts\;E:\python\py3.9\;C:\Windows\System32;C:\ProgramData\chocolatey\bin;E:\nodejs\;E:\python\anaconda;E:\python\anaconda\Scripts;E:\python\anaconda\Library\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\software\;C:\Users\guokaifeng\AppData\Local\Microsoft\WindowsApps;C:\temp\idea\ideajdk\bin;C:\temp\idea\ideajdk\jre\bin;C:\Users\guokaifeng\AppData\Roaming\npm;E:\vscode\Microsoft VS Code\bin;E:\python\PyCharm 2022.1\bin;;."/>
+    <property name="maven.conf" value="C:\temp\maven3.8.4\apache-maven-3.8.4/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="maven.repo.local" value="C:\temp\maven3.8.4\repository"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\guokaifeng"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="user.name" value="guokaifeng"/>
+    <property name="java.class.path" value="C:\temp\maven3.8.4\apache-maven-3.8.4\boot\plexus-classworlds-2.6.0.jar;C:\temp\maven3.8.4\apache-maven-3.8.4\boot\plexus-classworlds.license"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2021.2.2 -s C:\temp\maven3.8.4\apache-maven-3.8.4\conf\settings.xml -Dmaven.repo.local=C:\temp\maven3.8.4\repository package"/>
+    <property name="java.home" value="C:\temp\idea\ideajdk"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="17.0.2"/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\temp\maven3.8.4\apache-maven-3.8.4"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2022-01-18"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="TotalTest" name="haha" time="0.177"/>
+  <testcase classname="TotalTest" name="demo3" time="0.001"/>
+  <testcase classname="TotalTest" name="haha2" time="0.002"/>
+</testsuite>
